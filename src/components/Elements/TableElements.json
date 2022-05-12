@@ -1,0 +1,141 @@
+[
+  
+  
+    { 
+    "id": 1,
+    "Name":"tiger Nixon ",
+    "Position":"System Architect",
+    "Office":"hyderabad ",
+    "color": "#ffcdd2",
+     "Age":25,
+        "startDate":"23/4/2002",
+        "salary":"$08967"
+  }, 
+  {
+    "id":2,
+    "Name":"Cedric Kelly  ",
+    "Position":"Senior Javascript Developer",
+    "Office":"hyderabad ",
+   
+    "Age":38,
+    "color": "#ffcdd2",
+    "startDate":"3/5/2019",
+    "salary":"$87675"
+  }, 
+  {
+    "id": 3,
+    "Name":"Sonya Frost",
+    "Position":"Software Engineer",
+    "Office":"New Delhi",
+    "color": "#ff8a80",
+    "Age":42,
+    "startDate":"13/1/2010",
+    "salary":"$8576"
+  },
+  {
+    "id": 4,
+    "Name":"Quinn Flynn",
+    "Position":"Support Lead ",
+    "Office":"London ",
+    "color": "#54235267",
+    "Age":30,
+    "startDate":"7/12/1999",
+    "salary":"$8688"
+    
+  },
+  {
+    "id": 5,
+    "Name":" Jen Gaines",
+    "Position":"Office Manager ",
+    "color": "#42a5f5",
+    "Office":"switzerland ",
+    "Age":24,
+    "startDate":"26/8/2012",
+    "salary":"$567908"
+
+    
+  },
+  {
+    "id": 6,
+    "Name":"Haley Kennedy ",
+    "Position":"Senior Marketing Designer ",
+    "Office":"London ",
+    "color": "#54235267",
+    "Age":27,
+    "startDate":"1/6/2006",
+    "salary":"$660098"
+  },
+  {
+    "id": 7,
+    "Name":"Brielle Williamson",
+    "Position":"Integration Specialist",
+    "Office":"New York",
+    "color": "cyan",
+    "Age":22,
+    "startDate":"3/1/2016",
+    "salary":"$546"
+  },
+  {
+    "id": 8,
+    "Name":"Ashton Cox",
+    "Position":"Junior Technical Author",
+    "Office":"hong kong",
+    "color": "#009",
+    "Age":28,
+    "startDate":"28/10/2004",
+    "salary":"$6576"
+  },
+  {
+    "id": 9,
+    "Name":"Quinn Flynn",
+    "Office":"Paris",
+    "color": "#9098",
+    "Position":"Junior Technical Author",
+    "Age":46,
+    "startDate":"11/3/2009",
+    "salary":"$678097"
+  },
+  {
+    "id": 10,
+    "Name":" Flynn",
+    "Office":"Paris",
+    "color": "#3298",
+    "Position":"Junior Technical Author",
+    "Age":34,
+    "startDate":"17/5/2004",
+    "salary":"$6687"
+  },
+  {
+    "id": 11,
+    "Name":" Noah",
+    "Office":"Paris",
+    "color": "#9258",
+    "Position":"Junior Technical Author",
+    "Age":34,
+    "startDate":"23/4/2002",
+    "salary":"$1223"
+  },
+  {
+    "id": 12,
+    "Name":"Oliver",
+    "Office":"Paris",
+    "color": "aqua",
+    "Position":"Junior Technical Author",
+    "Age":34,
+    "startDate":"3/2/2014",
+    "salary":"$324546"
+  },
+  {
+    "id": 13,
+    "Name":"Elijah",
+    "Office":"Paris",
+    "color": "beige",
+    "Position":"Junior Technical Author",
+    "Age":34,
+    "startDate":"15/5/2002",
+    "salary":"$98765"
+
+
+  }
+  
+]
