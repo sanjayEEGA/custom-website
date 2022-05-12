@@ -9,7 +9,7 @@ import Toolbar from '@mui/material/Toolbar';
 import Appbar from './components/appbar/Appbar';
 import Sidebar from './components/sidebar/Sidebar';
 // import Main from './components/Main/Main';
-// import Main from './components/Main/Main'
+import Main from './components/Main/Main'
 
 const drawerWidth = 240;
 function App(props) {
@@ -75,7 +75,7 @@ function App(props) {
       >
         <Toolbar />
         {/* <Main></Main> */}
-        {/* <Main/> */}
+        <Main/>
         
       </Box>
     </Box>
