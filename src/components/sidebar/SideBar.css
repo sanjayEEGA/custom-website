@@ -1,7 +1,7 @@
 .css-d9ml5t-MuiDrawer-docked .MuiDrawer-paper {
     box-sizing: border-box;
     width: 240px;
-    background-color: blue ;
+    background-color: blue !important;
 }
 .css-1fzmbpm-MuiListItemText-root {
     -webkit-flex: 1 1 auto;
