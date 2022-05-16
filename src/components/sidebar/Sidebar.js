@@ -45,7 +45,9 @@ function Sidebar(props) {
         
       };
     return (
-        <div>
+        <div className="sidenavbar" 
+        // style={{backgroundColor:'red'}} 
+        >
              <CssBaseline />
       <Divider />
       <List component="nav" disablePadding>

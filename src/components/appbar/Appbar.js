@@ -8,6 +8,7 @@ import Drawer from '@mui/material/Drawer';
 import SettingsIcon from '@mui/icons-material/Settings';
 import NotificationsIcon from '@mui/icons-material/Notifications';
 import { Box } from '@mui/material';
+import './AppBar.css'
 const drawerWidth = 240;
 function Appbar(appBar) {
     const [mobileOpen, setMobileOpen] = React.useState(false);
