@@ -61,12 +61,12 @@ function Sidebar(props) {
       <Collapse in={first} timeout="auto" unmountOnExit>
         <Divider />
                     <List component="div" disablePadding>
-                            <ListItem button >
-                                <ListItemText inset primary="Nested Page 1" />
+                            <ListItem className='listitem' button >
+                                <ListItemText   primary="Nested Page 1" />
                             </ListItem>
                     <Divider />
-                            <ListItem button >
-                                <ListItemText inset primary="Nested Page 2" />
+                            <ListItem className='listitem' button >
+                                <ListItemText  primary="Nested Page 2" />
                             </ListItem>
                     <Divider />
                     </List>
@@ -89,14 +89,14 @@ function Sidebar(props) {
                                 <ListItemIcon  >
                                         <ShowChartIcon />
                                 </ListItemIcon>
-                                <ListItemText   inset primary="Fullscreen with Chart " />
+                                <ListItemText    primary="Fullscreen with Chart " />
                             </ListItem>
                     <Divider />
                             <ListItem button onClick={handleMain}> 
-                                <ListItemIcon  >
-                                <SettingsIcon right/>
+                                <ListItemIcon   >
+                                <SettingsIcon/>
                                 </ListItemIcon>
-                                <ListItemText inset primary="Table with Custom Elements" />
+                                <ListItemText  primary="Table with Custom Elements" />
                             </ListItem>
                     <Divider />
                     </List>
